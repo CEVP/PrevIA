@@ -1,5 +1,11 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+  "@previa/org/components": ["packages/components/src/"],
+  "@previa/org/components/*": ["packages/components/src/*"],
+  "@/*": ["./src/*"]
+},
     "composite": true,
     "declarationMap": true,
     "emitDeclarationOnly": true,
