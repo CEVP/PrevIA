@@ -29,3 +29,8 @@ PrevIA é um SaaS em desenvolvimento que auxilia advogados previdenciaristas a o
 - Detecção de inconsistências com apoio de IA
 - Jurimetria baseada em decisões previdenciárias
 
+## Licença
+
+Este projeto está licenciado sob a Licença Apache 2.0. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+
